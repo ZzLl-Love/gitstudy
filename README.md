@@ -12,3 +12,15 @@
          git pull origin master   
  
    ```
+
+### 问题2： 不能切换到主分支
+ * 描述
+   ``` 
+       cloudn‘t checkout master the fllowing untrached working tree  files  would be overwritten by checkout
+       不能切换到主分支,在切换分支的时候以下未跟踪的工作树文件将被覆盖   
+   ```
+ * 思考
+   目标分支 与 当前分支 哪个的文件覆盖哪个？  
+   ```
+      
+   ```
