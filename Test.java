@@ -27,4 +27,7 @@ public class Test {
         System.out.println(第一次修改);
 
     }
+
+    //模拟A同学提交代码并更新远程分支。
+
 }
